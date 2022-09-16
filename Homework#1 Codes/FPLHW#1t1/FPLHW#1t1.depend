@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442719942 source:d:\study\codeblock\fplhw#1t1\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
